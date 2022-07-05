@@ -12,7 +12,7 @@ license = 'Apache Software License'
 name = "chris-utils"
 readme = "README.md"
 repository = "https://github.com/gregorybchris/chris-utils"
-version = "0.1.0"
+version = "0.1.1"
 
 [[tool.poetry.packages]]
 include = "chris"
