@@ -14,7 +14,7 @@ def example_score_map() -> Dict[str, float]:
     }
 
 
-class TestPrint:
+class TestPrintMap:
     def test_print_map(
         self,
         capsys: pytest.CaptureFixture,
